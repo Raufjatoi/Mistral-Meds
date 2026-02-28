@@ -21,7 +21,8 @@ Mistral meds help user to find the medicine alternative with same formula and ev
 
 ## By 
 <img src="rauf.png" alt="rauf" width="200" style="border-radius: 75%; margin-bottom: 10px;">
-<br>
+<br>   
+
 [Rauf Jatoi](https://raufjatoi.vercel.app/)
 
 ## Deployed on 
