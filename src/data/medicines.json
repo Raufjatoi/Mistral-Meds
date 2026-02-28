@@ -1,0 +1,127 @@
+[
+    {
+        "id": "1",
+        "brandName": "Panadol",
+        "genericFormula": "Paracetamol",
+        "type": "Tablet",
+        "dosage": "500mg",
+        "uses": [
+            "Headache",
+            "Fever",
+            "Pain Relief"
+        ],
+        "alternatives": [
+            "Calpol",
+            "Tylenol"
+        ]
+    },
+    {
+        "id": "2",
+        "brandName": "Augmentin",
+        "genericFormula": "Amoxicillin / Clavulanate Potassium",
+        "type": "Tablet",
+        "dosage": "625mg",
+        "uses": [
+            "Bacterial Infections",
+            "Pneumonia",
+            "Ear Infections"
+        ],
+        "alternatives": [
+            "Amoxil",
+            "Clavamox"
+        ]
+    },
+    {
+        "id": "3",
+        "brandName": "Arinac",
+        "genericFormula": "Ibuprofen / Pseudoephedrine",
+        "type": "Tablet",
+        "dosage": "200mg/30mg",
+        "uses": [
+            "Cold",
+            "Sinus Congestion",
+            "Fever"
+        ],
+        "alternatives": [
+            "Advil Cold & Sinus",
+            "Sudafed PE"
+        ]
+    },
+    {
+        "id": "4",
+        "brandName": "Brufen",
+        "genericFormula": "Ibuprofen",
+        "type": "Tablet",
+        "dosage": "400mg",
+        "uses": [
+            "Muscle Pain",
+            "Fever",
+            "Inflammation"
+        ],
+        "alternatives": [
+            "Advil",
+            "Motrin"
+        ]
+    },
+    {
+        "id": "5",
+        "brandName": "Zyrtec",
+        "genericFormula": "Cetirizine",
+        "type": "Tablet",
+        "dosage": "10mg",
+        "uses": [
+            "Allergies",
+            "Hay Fever",
+            "Hives"
+        ],
+        "alternatives": [
+            "Reactine",
+            "Rigix"
+        ]
+    },
+    {
+        "id": "6",
+        "brandName": "Ponstan",
+        "genericFormula": "Mefenamic Acid",
+        "type": "Tablet",
+        "dosage": "500mg",
+        "uses": [
+            "Toothache",
+            "Menstrual Pain",
+            "Muscle Aches"
+        ],
+        "alternatives": [
+            "Ponstel"
+        ]
+    },
+    {
+        "id": "7",
+        "brandName": "Flagyl",
+        "genericFormula": "Metronidazole",
+        "type": "Tablet",
+        "dosage": "400mg",
+        "uses": [
+            "Stomach Infection",
+            "Diarrhea",
+            "Amoebiasis"
+        ],
+        "alternatives": [
+            "Metrogyl"
+        ]
+    },
+    {
+        "id": "8",
+        "brandName": "Gravinate",
+        "genericFormula": "Dimenhydrinate",
+        "type": "Tablet",
+        "dosage": "50mg",
+        "uses": [
+            "Nausea",
+            "Vomiting",
+            "Motion Sickness"
+        ],
+        "alternatives": [
+            "Dramamine"
+        ]
+    }
+]
